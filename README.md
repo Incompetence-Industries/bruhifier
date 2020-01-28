@@ -1,2 +1,2 @@
-# bruhifier
+# Bruhifier
 Self-explanatory.
